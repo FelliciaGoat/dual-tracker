@@ -1,6 +1,6 @@
 # Acoustic Occupancy & Thermal Leak Dual-Tracker
 
-Yuva Yodha Tech · Challenge 02, Smart Buildings · Team Stardust Crusaders, Chandigarh University
+Hack-o-octo · Chalti firti irony, Chandigarh University
 
 ## Problem
 
